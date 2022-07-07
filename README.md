@@ -45,3 +45,20 @@
 >>> 三级引用
 
 [GitHub](https://github.com "点击跳转到github")
+
+![自定义图片](D://Desktop//1657166247911.png)
+
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("hi c..\n");
+		return 0;
+
+	}
+```
+```python
+	import os
+
+```
+

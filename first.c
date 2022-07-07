@@ -2,6 +2,9 @@
 
 int main(){
 	
-	while(1);
+	
+
+
+	printf("change\n");
 	return 0;
 }
